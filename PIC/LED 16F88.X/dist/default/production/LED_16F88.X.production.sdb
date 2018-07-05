@@ -1,0 +1,40 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F88 ]
+[d frameptr 6 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"33 C:\Users\ìnïîÅ@çkïΩ\Desktop\Korchan made The games\TSPä÷òA\PIC\LED 16F88.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"164 C:\Program Files (x86)\Microchip\xc8\v1.45\include\pic16f88.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+[s S23 . 1 `uc 1 RA0 1 0 :1:0 
+`uc 1 RA1 1 0 :1:1 
+`uc 1 RA2 1 0 :1:2 
+`uc 1 RA3 1 0 :1:3 
+`uc 1 RA4 1 0 :1:4 
+`uc 1 RA5 1 0 :1:5 
+`uc 1 RA6 1 0 :1:6 
+`uc 1 RA7 1 0 :1:7 
+]
+"181
+[u S32 . 1 `S23 1 . 1 0 ]
+[v _PORTAbits PORTAbits `VES32  1 e 1 @5 ]
+"226
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"1085
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1147
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"33 C:\Users\ìnïîÅ@çkïΩ\Desktop\Korchan made The games\TSPä÷òA\PIC\LED 16F88.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"45
+} 0
